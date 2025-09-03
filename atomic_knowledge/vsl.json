@@ -1,0 +1,70 @@
+[
+  {
+    "id": "AK-VSL-PRIN-001",
+    "type": "principle",
+    "title": "El Principio del 'Gran Dominó' (Big Domino)",
+    "body": "La creencia central de que si un prospecto acepta una única y poderosa creencia, la compra de tu producto se convierte en la consecuencia lógica e inevitable. Toda la VSL debe construirse para probar y reforzar esta única creencia.",
+    "context": {
+      "funnel_stage": "consideration",
+      "audience_temperature": "warm",
+      "platform": "vsl"
+    },
+    "goal": "build_trust",
+    "tags": ["estrategia", "mensaje central", "big_domino", "copywriting", "psicologia de ventas"],
+    "evidence": {
+      "quote": "Asegúrate de que sea una creencia central y poderosa que, si el prospecto la acepta, la compra sea la consecuencia lógica.",
+      "ref": "Documento VSL Suministrado, Fase 2"
+    }
+  },
+  {
+    "id": "AK-VSL-PAT-001",
+    "type": "pattern",
+    "title": "Patrón Narrativo de la 'Historia Puente de Epifanía'",
+    "body": "Una estructura narrativa diseñada para conectar emocionalmente con la audiencia y guiarla hacia la aceptación del 'Gran Dominó'. Se compone de tres partes:\n1. El 'Antes': Descripción de la lucha, el dolor y los intentos fallidos del protagonista.\n2. La 'Revelación': El momento exacto del descubrimiento o '¡ajá!' que llevó a la creación de la solución única (el Gran Dominó).\n3. El 'Después': Los resultados específicos y la transformación positiva lograda gracias a la aplicación de la solución.",
+    "context": {
+      "funnel_stage": "consideration",
+      "audience_temperature": "warm",
+      "platform": "vsl"
+    },
+    "goal": "build_trust",
+    "tags": ["storytelling", "copywriting", "vsl_script", "epiphany_bridge", "narrativa"],
+    "evidence": {
+      "quote": "Crear un borrador estructurado de la Historia Puente de Epifanía, dividido en: El 'Antes': Descripción de la lucha y el dolor. La 'Revelación': Cómo se descubrió el Gran Dominó. y El 'Después': Los resultados y la transformación lograda.",
+      "ref": "Documento VSL Suministrado, Fase 2"
+    }
+  },
+  {
+    "id": "AK-VSL-PROC-001",
+    "type": "procedure",
+    "title": "Procedimiento para Construir una Oferta Irresistible (Value Stacking)",
+    "body": "Sigue estos pasos para aumentar masivamente el valor percibido de tu oferta:\n1. **Define la Oferta Principal:** Dale un nombre y propósito claros a tu producto.\n2. **Apila el Valor (Value Stacking):** Desglosa la oferta principal en 3-5 componentes clave. Asigna a cada uno un nombre atractivo, una descripción de su valor y un precio percibido.\n3. **Integra Bonos Estratégicos:** Añade 2-3 bonos que resuelvan objeciones comunes o incentiven la acción rápida. Asigna también nombre, propósito, descripción y valor percibido.\n4. **Crea Descripciones Persuasivas:** Escribe 'bullet points' para cada componente y bono que comuniquen resultados y generen curiosidad.\n5. **Fija un Precio Estratégico:** Establece un precio final que sea significativamente menor que el valor total percibido para crear un efecto de 'oferta irresistible'.",
+    "context": {
+      "funnel_stage": "conversion",
+      "audience_temperature": "hot",
+      "platform": "vsl"
+    },
+    "goal": "increase_cvr",
+    "tags": ["oferta", "value_stacking", "pricing", "bonuses", "copywriting"],
+    "evidence": {
+      "quote": "Crear una lista de 3-5 componentes clave de la oferta principal, cada uno con un nombre atractivo y orientado a beneficios, una breve descripción de su valor y Valor monetario percibido asignado.",
+      "ref": "Documento VSL Suministrado, Fase 3"
+    }
+  },
+  {
+    "id": "AK-VSL-PROC-002",
+    "type": "procedure",
+    "title": "Procedimiento para Crear el Hook de una VSL (Paso 1 - Atención)",
+    "body": "Sigue estos pasos para captar la atención del espectador en los primeros segundos:\n1. **Reúne los Activos Clave:** Ten a mano el 'Gran Dominó', el principal dolor/deseo del público y un resultado impactante y cuantificable.\n2. **Genera Opciones:** Redacta de 2 a 3 frases de apertura que sean directas, intrigantes y prometan un nuevo enfoque o una solución.\n3. **Enfócate en un Ángulo:** Asegúrate de que cada opción de hook se centre en uno de estos ángulos: el resultado final, el dolor que se evita o la singularidad de la solución que se presentará.\n4. **Evita Clichés:** Descarta frases comunes o que suenen a venta para generar originalidad y curiosidad genuina.",
+    "context": {
+      "funnel_stage": "awareness",
+      "audience_temperature": "cold",
+      "platform": "vsl"
+    },
+    "goal": "increase_ctr",
+    "tags": ["hook", "vsl_script", "atencion", "copywriting", "video_marketing"],
+    "evidence": {
+      "quote": "Generar una frase de apertura (primeros segundos del VSL) que capte la atención inmediatamente y generen curiosidad, prometiendo un enfoque nuevo o una solución a un dolor/deseo clave.",
+      "ref": "Documento VSL Suministrado, Fase 4"
+    }
+  }
+]
