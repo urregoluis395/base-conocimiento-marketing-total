@@ -1,0 +1,53 @@
+[
+  {
+    "id": "AK-CONTENT-PRIN-001",
+    "type": "principle",
+    "title": "El Modelo Pilar-Cluster para Autoridad Temática en SEO",
+    "body": "La estrategia consiste en crear un contenido principal extenso (Pilar) sobre un tema amplio y luego producir múltiples contenidos de apoyo más específicos (Clusters) que enlazan de vuelta al pilar. Esto demuestra una profunda autoridad sobre un tema a los motores de búsqueda.",
+    "context": {
+      "funnel_stage": "consideration",
+      "audience_temperature": "warm",
+      "platform": "google_seo"
+    },
+    "goal": "build_trust",
+    "tags": ["seo", "estrategia de contenidos", "topic clusters", "autoridad"],
+    "evidence": {
+      "quote": "Esto le demuestra a Google que tienes una profunda autoridad en el tema.",
+      "ref": "Notas Piloto"
+    }
+  },
+  {
+    "id": "AK-CONTENT-PROC-001",
+    "type": "procedure",
+    "title": "Procedimiento para Esbozar un Artículo Pilar",
+    "body": "1. **Investigación de Palabras Clave Secundarias:** Encuentra preguntas y subtemas relacionados para definir tus secciones H2/H3.\n2. **Estructura SCQA:** Organiza la introducción con el framework Situación, Complicación, Pregunta, Respuesta para enganchar al lector.\n3. **Mapeo de Clusters:** Identifica oportunidades dentro del esquema para enlazar a contenidos cluster de apoyo.",
+    "context": {
+      "funnel_stage": "consideration",
+      "audience_temperature": "warm",
+      "platform": "blog"
+    },
+    "goal": "build_trust",
+    "tags": ["seo", "copywriting", "blogging", "esquema", "scqa"],
+    "evidence": {
+      "quote": "Sigue estos pasos para crear un esquema sólido:",
+      "ref": "Notas Piloto"
+    }
+  },
+  {
+    "id": "AK-CONTENT-PAT-001",
+    "type": "pattern",
+    "title": "Fórmulas de Titulares para Alta Tasa de Clics (CTR)",
+    "body": "Plantillas de titulares efectivas para atraer la atención en blogs y YouTube:\n- La Guía Definitiva para [Resultado Deseado]\n- X Errores Comunes que Cometes en [Tema] (y Cómo Solucionarlos)\n- Cómo Logré [Resultado Impresionante] en [Tiempo Récord]",
+    "context": {
+      "funnel_stage": "awareness",
+      "audience_temperature": "cold",
+      "platform": "blog"
+    },
+    "goal": "increase_ctr",
+    "tags": ["copywriting", "titulares", "blogging", "ctr", "hooks"],
+    "evidence": {
+      "quote": "Aquí tienes tres plantillas o patrones que funcionan casi universalmente para blogs y videos de YouTube...",
+      "ref": "Notas Piloto"
+    }
+  }
+]
