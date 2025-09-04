@@ -1,1 +1,70 @@
-{"key1": "value1", "key2": "value2", "key3": "consideración"}
+[
+  {
+    "id": "AK-VSL-PRIN-001",
+    "type": "principle",
+    "title": "El Principio del 'Gran Dominó' (Big Domino)",
+    "body": "La creencia central de que si un prospecto acepta una única y poderosa creencia, la compra de tu producto se convierte en la consecuencia lógica e inevitable. Toda la VSL debe construirse alrededor de este concepto para maximizar las conversiones.",
+    "context": {
+      "funnel_stage": "consideración",
+      "audience_temperature": "warm",
+      "platform": "vsl"
+    },
+    "goal": "build_trust",
+    "tags": ["estrategia", "mensaje central", "big_domino", "copywriting", "psicologia de ventas"],
+    "evidence": {
+      "quote": "Asegúrate de que sea una creencia central y poderosa que, si el prospecto la acepta, la compra sea la consecuencia lógica.",
+      "ref": "Documento VSL Suministrado, Fase 2"
+    }
+  },
+  {
+    "id": "AK-VSL-PAT-001",
+    "type": "pattern",
+    "title": "Patrón Narrativo de la 'Historia Puente de Epifanía'",
+    "body": "Una estructura narrativa diseñada para conectar emocionalmente con la audiencia y guiarla hacia la aceptación del 'Gran Dominó'. Se compone de tres partes:\n1. El 'Antes': Descripción de la lucha y el dolor.\n2. La 'Revelación': Cómo se descubrió el Gran Dominó.\n3. El 'Después': La transformación tras aceptar el Gran Dominó.",
+    "context": {
+      "funnel_stage": "consideración",
+      "audience_temperature": "warm",
+      "platform": "vsl"
+    },
+    "goal": "build_trust",
+    "tags": ["storytelling", "copywriting", "vsl_script", "epiphany_bridge", "narrativa"],
+    "evidence": {
+      "quote": "Crear un borrador estructurado de la Historia Puente de Epifanía, dividido en: El 'Antes': Descripción de la lucha y el dolor. La 'Revelación': Cómo se descubrió el Gran Dominó. El 'Después': La transformación tras aceptar el Gran Dominó.",
+      "ref": "Documento VSL Suministrado, Fase 2"
+    }
+  },
+  {
+    "id": "AK-VSL-PROC-001",
+    "type": "procedure",
+    "title": "Procedimiento para Construir una Oferta Irresistible (Value Stacking)",
+    "body": "Sigue estos pasos para aumentar masivamente el valor percibido de tu oferta:\n1. **Define la Oferta Principal:** Dale un nombre y propósito claros a tu producto.\n2. **Apila el Valor:** Añade bonos, extras y garantías que refuercen la oferta principal.\n3. **Presenta el Valor Monetario:** Asigna un valor monetario a cada componente para visualizar el beneficio.\n4. **Crea Urgencia:** Usa escasez y urgencia para motivar la acción inmediata.",
+    "context": {
+      "funnel_stage": "conversion",
+      "audience_temperature": "hot",
+      "platform": "vsl"
+    },
+    "goal": "increase_cvr",
+    "tags": ["oferta", "value_stacking", "pricing", "bonuses", "copywriting"],
+    "evidence": {
+      "quote": "Crear una lista de 3-5 componentes clave de la oferta principal, cada uno con un nombre atractivo y orientado a beneficios, una breve descripción de su valor y Valor monetario percibido.",
+      "ref": "Documento VSL Suministrado, Fase 3"
+    }
+  },
+  {
+    "id": "AK-VSL-PROC-002",
+    "type": "procedure",
+    "title": "Procedimiento para Crear el Hook de una VSL (Paso 1 - Atención)",
+    "body": "Sigue estos pasos para captar la atención del espectador en los primeros segundos:\n1. **Reúne los Activos Clave:** Ten a mano el 'Gran Dominó', el principal dolor/deseo del público objetivo y cualquier dato relevante de mercado.\n2. **Crea la Frase de Apertura:** Formula una promesa intrigante o una pregunta impactante que resuene con el dolor/deseo identificado.\n3. **Genera Curiosidad:** Usa un giro inesperado o revela un beneficio poco conocido para incentivar que sigan viendo.",
+    "context": {
+      "funnel_stage": "awareness",
+      "audience_temperature": "cold",
+      "platform": "vsl"
+    },
+    "goal": "increase_ctr",
+    "tags": ["hook", "vsl_script", "atencion", "copywriting", "video_marketing"],
+    "evidence": {
+      "quote": "Generar una frase de apertura (primeros segundos del VSL) que capte la atención inmediatamente y genere curiosidad, prometiendo un enfoque nuevo o una solución a un dolor/deseo relevante.",
+      "ref": "Documento VSL Suministrado, Fase 4"
+    }
+  }
+]
